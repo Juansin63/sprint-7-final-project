@@ -27,3 +27,4 @@ El análisis se basa en tres fuentes principales de datos:
 
 ##  Cómo ejecutar el notebook
 1. Abrir el archivo .ipynb en GitHub
+https://colab.research.google.com/drive/1KO2WQKF0qJiLgE3ujz4toF5aSzUyGoQd?usp=sharing
